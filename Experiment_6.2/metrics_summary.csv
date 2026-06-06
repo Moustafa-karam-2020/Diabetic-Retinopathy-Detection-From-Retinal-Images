@@ -1,0 +1,9 @@
+Metric,Value
+Accuracy,0.7665
+F1-Score (Macro),0.7142
+F1-Score (Micro),0.7665
+Precision (Macro),0.7272
+Sensitivity (Macro),0.7124
+Specificity (Macro),0.9366
+QWK,0.8717
+Test Loss (OrdSmoothMSE),0.2993

@@ -1,0 +1,9 @@
+Dataset,Architecture Entry,Accuracy,QWK,Precision,Recall,F1-Score
+APTOS 2019,Mohammed Oulhadj et al. Baseline,0.8818,0.8155,0.8,0.76,0.78
+APTOS 2019,Proposed LHTViT (Ours),0.9103,0.8414,0.8338,0.8051,0.8289
+EyePACS,Mohammed Oulhadj et al. Baseline,0.7864,-,0.54,0.42,0.46
+EyePACS,Proposed LHTViT (Ours),0.8314,0.8276,0.5863,0.4623,0.5047
+Messidor-2,Mohammed Oulhadj et al. Baseline,0.8778,-,0.87,0.87,0.87
+Messidor-2,Proposed LHTViT (Ours),0.917,0.8374,0.9197,0.9065,0.9191
+DDR Dataset,Mohammed Oulhadj et al. Baseline,0.8036,-,0.59,0.55,0.56
+DDR Dataset,Proposed LHTViT (Ours),0.8456,0.8324,0.6232,0.5961,0.5934

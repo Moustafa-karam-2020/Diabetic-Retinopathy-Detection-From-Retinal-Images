@@ -1,0 +1,6 @@
+True \ Predicted,No DR,Mild,Moderate,Severe,Proliferative
+No DR,3381,318,129,1,1
+Mild,217,836,215,11,3
+Moderate,210,257,1083,116,14
+Severe,0,13,112,397,29
+Proliferative,3,10,53,156,435

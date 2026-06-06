@@ -1,0 +1,6 @@
+Class,F1-Score,Sensitivity,Specificity
+No DR,0.885,0.8828,0.8969
+Mild,0.6156,0.6521,0.911
+Moderate,0.662,0.6446,0.9195
+Severe,0.6445,0.7205,0.9619
+Proliferative,0.7638,0.6621,0.9936
